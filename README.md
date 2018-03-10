@@ -11,8 +11,8 @@
 2.Sqlite数据库
 
 ## 如何开始
-1.下载源代码到本地
-2.配置好cocos2d-x的安装环境
-3.新建一个HelloWorld项目
-4.将Classes和Resources文件夹替换掉
+1.下载源代码到本地</br>
+2.配置好cocos2d-x的安装环境</br>
+3.新建一个HelloWorld项目</br>
+4.将Classes和Resources文件夹替换掉</br>
 5.打开sln文件运行
